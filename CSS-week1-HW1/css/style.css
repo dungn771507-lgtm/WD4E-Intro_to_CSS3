@@ -7,11 +7,11 @@ body {
 }
 
 header {
-  background-color: #ffffff;
+  background-color: #00FFFF;
 }
 
 nav {
-  background-color: #ffffff;
+  background-color: #FFFFFF;
 }
 
 main {
@@ -20,29 +20,22 @@ main {
 }
 
 footer {
-  background-color: #ffffff;
+  background-color: #00FFFF;
 }
 
 li {
   display: inline-block;
-  width: 120px;
+  width: 150px;
 }
 
 h1 {
   text-align: center;
   font-family: Georgia, serif;
-  color: #2c3e50;
+  color: #000000;
 }
 
 p {
-  line-height: 1.6;
+  line-height: 2;
 }
 
-  header a, nav a, footer a {
-  color: #ffffff;
-}
-
-a {
-  color: #ffcc00;
-}
 }
