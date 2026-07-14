@@ -37,4 +37,12 @@ h1 {
 p {
   line-height: 1.6;
 }
+
+  header a, nav a, footer a {
+  color: #ffffff;
+}
+
+a {
+  color: #ffcc00;
+}
 }
